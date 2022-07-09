@@ -58,4 +58,6 @@ The biggest disadvantage of refactoring code is it can present new bugs that req
 ## How do These Pros and Cons Apply to Refactoring the Original VBA Script?
 When refactoring my original code, I ran into SEVERAL bugs that I had to troubleshoot. It took quite a while to dial this code in to run, not only more efficiently, but run in general! Although it was not an easy task, I was able to shave off .5568771 seconds of run time for my 2017 analysis. I was also able to shave off .4913712 of run time for my 2018 analysis.
 
+The advantage of my original code is that the analysis was compiled automatically which is much quicker than pulling the information together manually. The disadvantage of the original code is that it ran slower and was not as easy to read as the refactored code.
+
 
